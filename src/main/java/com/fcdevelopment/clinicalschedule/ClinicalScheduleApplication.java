@@ -1,13 +1,13 @@
-package com.fcdevelopment.clinicalagenda;
+package com.fcdevelopment.clinicalschedule;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClinicalAgendaApplication {
+public class ClinicalScheduleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClinicalAgendaApplication.class, args);
+		SpringApplication.run(ClinicalScheduleApplication.class, args);
 	}
 
 }
